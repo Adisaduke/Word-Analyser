@@ -1,0 +1,28 @@
+.header_container {
+    background-color: #f1f7ff;
+    box-shadow: 0 0.3px 0.9px rgba(0, 0, 0, .1), 0 1.6px 3.6px rgba(0, 0, 0, .1);
+    position: static;
+}
+
+.header_content {
+    max-width: 90%;
+    margin: auto;
+    display: flex;
+    justify-content: space-between;
+}
+
+.socialmedia {
+    display: flex;
+    margin-top: 20px;
+}
+
+.socialmedia div {
+    margin-right: 20px;
+}
+
+.logo p {
+    color: #242424;
+    font-size: 18px;
+    font-weight: 600;
+    font-family: sans-serif;
+}
